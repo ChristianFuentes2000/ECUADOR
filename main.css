@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+body{
+  background-image:url("FONDO.jpg");
+}
+
+.parrafo{
+  font-size: 20px;
+  text-align:center;
+  width: 100%;
+  margin:auto;
+  font-family: 'Itim', cursive;
+  color:#078282FF;
+  font-weight: bold;
+}
+
+
+.description{
+  font-size: 20px;
+  text-align: center;
+  width:50%;
+  margin: auto;
+  font-family: 'Kaushan Script', cursive;
+  color:#783937FF;
+}
+
+.big-list {
+  font-size: 25px
+}
+
+.blurb {
+  background-color: #CBCE91FF;
+  padding: 10px;
+  border-radius: 15px;
+  margin-top: 10px;
+
+}
+
+.blurb-title{
+  color:#011936FF;
+  text-align: center;
+  text-shadow: 2px 2px #F7CED7FF;
+  font-size: 32px;
+  font-weight: bold;
+  font-family:'Press Start 2P', cursive;;
+}
+
+.main-title {
+  color:#ED254EFF;
+  text-align: center;
+  font-size: 70px;
+  font-style: italic;
+  font-weight: bolder;
+  font-family:'Luckiest Guy', cursive;
+  text-shadow: 4px 4px black;
+  margin-bottom: 0;
+}
+
+
+.row{
+  display:flex;
+}
+
+.column {
+  flex: 33%;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.foto {
+  width:10%;
+  border-radius: 15px;
+  margin: 1px 2px 1px 0;
+  padding: 1%;
+  text-align: left;
+}
