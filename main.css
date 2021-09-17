@@ -24,8 +24,9 @@ body{
   margin: auto;
   font-family: 'Kaushan Script', cursive;
   color:#00bf59;
-  box-shadow: 2px 2px black;
+  box-shadow: 2px 2px 2px 2px black;
   font-weight: bold;
+  background-color: #dcf7e9;
 }
 
 .big-list {
