@@ -23,7 +23,8 @@ body{
   width:50%;
   margin: auto;
   font-family: 'Kaushan Script', cursive;
-  color:#8ABAD3FF;
+  color:#1117ad;
+  box-shadow: 2px 2px black;
 }
 
 .big-list {
